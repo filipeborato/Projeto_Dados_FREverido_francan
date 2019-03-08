@@ -1,0 +1,15 @@
+{
+	"name": "mcanan/framework",
+	"description": "min-php-framework",
+	"type": "library",
+	"authors": [
+		{
+			"name": "Filipe Borato",
+			"email": filipeborato@gmail.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": { "mcanan\\framework\\": "" }
+	}
+}
